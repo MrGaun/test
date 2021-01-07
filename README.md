@@ -16,3 +16,5 @@ C:/Users/NJDSCJ/Desktop/git/test
 使用vsCode创建GitHub分支并修改内容
 
 在momo分支上修改内容
+
+让分支同步main中的内容
