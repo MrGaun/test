@@ -13,3 +13,4 @@ C:/Users/NJDSCJ/Desktop/git/test
 按照体制可分为章回体小说、日记体小说、书信体小说、自传体小说。
 按照语言形式可分为文言小说和白话小说。
 使用github删除
+使用vsCode创建GitHub分支并修改内容
