@@ -21,3 +21,6 @@ C:/Users/NJDSCJ/Desktop/git/test
 
 
 主支修改上传
+
+
+将GitHub的代码pull到本地
