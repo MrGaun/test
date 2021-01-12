@@ -24,3 +24,6 @@ C:/Users/NJDSCJ/Desktop/git/test
 
 
 将GitHub的代码pull到本地
+
+
+上传数据
